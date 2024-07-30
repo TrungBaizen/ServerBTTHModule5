@@ -34,19 +34,19 @@
   "orders": [
     {
       "id": "1",
-      "purchaseDate": "24/6/2024",
+      "purchaseDate": "24/06/2024",
       "quantity": 1,
       "productId": "2"
     },
     {
       "id": "2",
-      "purchaseDate": "29/6/2024",
+      "purchaseDate": "29/06/2024",
       "quantity": 2,
       "productId": "1"
     },
     {
       "id": "3",
-      "purchaseDate": "24/6/2024",
+      "purchaseDate": "24/06/2024",
       "quantity": 3,
       "productId": "3"
     },
