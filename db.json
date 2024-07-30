@@ -1,0 +1,48 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Iphone X",
+      "price": "550",
+      "category": "Điện thoại"
+    },
+    {
+      "id": "2",
+      "name": "Samsung S24Ultra",
+      "price": "1500",
+      "category": "Điện thoại"
+    },
+    {
+      "id": "3",
+      "name": "Dell Vostro",
+      "price": "1000",
+      "category": "Laptop"
+    }
+  ],
+  "orders": [
+    {
+      "id": "1",
+      "purchaseDate": "24/6/2024",
+      "quantity": 1,
+      "productId": "2"
+    },
+    {
+      "id": "2",
+      "purchaseDate": "29/6/2024",
+      "quantity": 2,
+      "productId": "1"
+    },
+    {
+      "id": "3",
+      "purchaseDate": "24/6/2024",
+      "quantity": 3,
+      "productId": "3"
+    },
+    {
+      "id": "40dc",
+      "purchaseDate": "2024-08-10",
+      "quantity": 12,
+      "productId": "1"
+    }
+  ]
+}
