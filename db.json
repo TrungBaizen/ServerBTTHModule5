@@ -17,6 +17,18 @@
       "name": "Dell Vostro",
       "price": "1000",
       "category": "Laptop"
+    },
+    {
+      "id": "4",
+      "name": "Lenovo Thinkpad",
+      "price": "1000",
+      "category": "Laptop"
+    },
+    {
+      "id": "5",
+      "name": "Iphone 15 Promax",
+      "price": "1500",
+      "category": "Điện thoại"
     }
   ],
   "orders": [
@@ -40,9 +52,39 @@
     },
     {
       "id": "40dc",
-      "purchaseDate": "2024-08-10",
+      "purchaseDate": "08/10/2024",
       "quantity": 12,
       "productId": "1"
+    },
+    {
+      "id": "3073",
+      "purchaseDate": "16/09/2024",
+      "quantity": 1,
+      "productId": "3"
+    },
+    {
+      "id": "57f6",
+      "purchaseDate": "31/08/2024",
+      "quantity": 3,
+      "productId": "2"
+    },
+    {
+      "id": "3918",
+      "purchaseDate": "06/09/2024",
+      "quantity": 1,
+      "productId": "1"
+    },
+    {
+      "id": "823c",
+      "purchaseDate": "15/08/2024",
+      "quantity": 1,
+      "productId": "2"
+    },
+    {
+      "id": "3719",
+      "purchaseDate": "23/08/2024",
+      "quantity": 1,
+      "productId": "5"
     }
   ]
 }
